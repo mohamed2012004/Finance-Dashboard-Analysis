@@ -70,6 +70,9 @@ The dashboard was created using **Power BI** and includes:
 - **Integration**: Expand the analysis using **Google Looker** and **Tableau**.
 - **Automation**: Automate ETL processes for real-time data updates.
 - **Advanced Analytics**: Add forecasting models for income and expense trends.
+  
 
-<!-- Uploading "finance analysis.mp4"... -->
+[<!-- Uploading "finance analysis.mp4"... -->
+](https://github.com/user-attachments/assets/eb87e537-d8c2-4f85-b4aa-a470f226116c)
+
 Feel free to suggest improvements or provide feedback! 🚀
